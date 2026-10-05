@@ -41,7 +41,7 @@ public class Heroina {
 
         System.out.println(nome + " recebeu " + dano + " de dano.");
     }
-
+// parte da cura
     public void curar(){
         if(seda == 9){
             mascaras = mascaras + 3;
